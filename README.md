@@ -32,7 +32,7 @@ get extra feturs use maalutty v3😍⏬
 
   ### Simple Method
  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/MAALUTTY-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/Tonight-hacher/MAALUTTY-QR)
   
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nijin-husni/MAALUTTY_V2) 
